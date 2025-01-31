@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "A polygon has n sides, and the number of diagonals is equal to the number of its sides. What is the value of n?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "The sum of the interior angles of a polygon is (80x +40)°, and the polygon has x sides. Find x.",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A shape can change between two regular polygons. The ratio of the number of their sides is 3:5, and the sum of their interior angles differs by 1080°. Find the number of sides in each polygon.",
+    "options": [
+      "(6, 10)",
+      "(8, 12)",
+      "(9, 15)",
+      "(10, 18)"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Find the value of x in the given regular polygon.<br><img width='70%' src='./assests/images/7.png'>",
+    "options": [
+      "35°",
+      "36°",
+      "25°",
+      "26°"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What is the value of x in the given polygon?<br><img width='70%' src='./assests/images/8.png'>",
+    "options": [
+      "30°",
+      "40°",
+      "50°",
+      "60°"
+    ],
+    "correct": 3
+  }
+]
